@@ -1,2 +1,2 @@
 # demo
-https://dearmind.github.io/demo
+https://dearmind.github.io/
